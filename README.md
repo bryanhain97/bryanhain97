@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bryanhain97, im from berlin and i'm 23 years old.
+- 👋 Hi, I’m Bryan, im from berlin and i'm 23 years old.
 
 - 👀 I’m interested in web development, computer hardware architecture and cryptocurrency.
 
