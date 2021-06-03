@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @bryanhain97, im from berlin and i'm 23 years old.
 
-- 👀 I’m interested in programming, computer hardware architecture and crypto.
+- 👀 I’m interested in web development, computer hardware architecture and cryptocurrency.
 
 - 🌱 I’m currently learning programming. I started learning how to code in september of 2020 and im currently working my way through 
      the freecodecamp.org courses. 
      
      
-- 💞️ I’m looking to collaborate on everything that helps me build my knowledge in programming... so far i can't offer to much value by myself but i'd love to learn.
+- 💞️ I’m looking to collaborate on everything that helps me build my knowledge. I'm currently learning HTML CSS and JavaScript.
 - 📫 How to reach me:
      bryanhain97@gmail.com
      https://www.linkedin.com/in/bryan-hain-572568206/
