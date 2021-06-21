@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Bryan, im from berlin and i'm 23 years old.
+- 👋 Hi, I’m Bryan, im from berlin and i'm 24 years old.
 
-- 👀 I’m interested in web development, computer hardware architecture and cryptocurrency.
+- 👀 I’m interested in web development, computer hardware architecture and cybersecurity.
 
 - 🌱 I’m currently learning programming. I started learning how to code in september of 2020 and im currently working my way through 
-     the freecodecamp.org courses. 
+     the freecodecamp.org courses.
      
      
 - 💞️ I’m looking to collaborate on everything that helps me build my knowledge. I'm currently learning HTML CSS and JavaScript.
