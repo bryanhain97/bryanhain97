@@ -22,6 +22,15 @@ You can click the Preview link to take a look at your changes.
 [<img align="left" alt="codepen" src="https://gravatar.com/avatar/212f56906d52af9d5e8bd886e9bbaee9?d=https%3A%2F%2Fassets.codepen.io%2Finternal%2Favatars%2Fusers%2Fdefault.png&fit=crop&format=auto&height=300&version=0&width=300" />](https://codepen.io/bryan_hain97)
 <br>
 <br>
-Click on this avatar to also checkout my personal codepen.io-account.
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+Click on the avatar to also checkout my personal codepen.io-account.
+---
 <br>
 <br>
