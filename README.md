@@ -1,11 +1,11 @@
-- 👋 Hi, I’m Bryan, im from berlin and i'm 24 years old.
+- 👋 Hi, I’m Bryan, i am from Berlin and i'm 24 years old.
 
 - 👀 I’m interested in web development, computer hardware architecture and cybersecurity.
 
 - 🌱 I’m currently learning programming. I started learning how to code in september of 2020 and im currently working my way through 
      challenges on https://www.frontendmentor.io 
      
-- 💞️ I’m looking to collaborate on everything that helps me build my knowledge. I'm currently learning HTML CSS and JavaScript.
+- 💞️ I’m looking to collaborate on everything that helps me build my knowledge. I'm currently learning HTML CSS and JavaScript and React.
 
      
 <!---
