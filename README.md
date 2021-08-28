@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning programming. I started learning how to code in september of 2020 and im currently working my way through 
      challenges on https://www.frontendmentor.io . For the last 4 months i am focusing on frontend-development. (Aug.21)
      
-- 💞️ I’m looking to collaborate on everything that helps me build my knowledge. I'm currently learning HTML CSS and JavaScript and React.
+- 💞️ I’m looking to collaborate on everything that helps me build my knowledge. I'm currently learning HTML CSS and JavaScript and React. And want to learn more about server-side programming in Node.js after that.
 
      
 <!---
