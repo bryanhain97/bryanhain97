@@ -19,6 +19,8 @@ You can click the Preview link to take a look at your changes.
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@bryanhain97)
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/14692443/bryan-hain)
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Bryan47588123)
-[<img align="left" alt="code-wars" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/v1400019742/pbpj9oxf1ipwrisnj9ia.png" />](https://www.codewars.com/users/bryanhain97)
+<br>
+<br>
+[<img align="left" alt="code-wars" src="https://resourcecat.com/wp-content/uploads/2020/11/Codewars.png" />](https://www.codewars.com/users/bryanhain97)
 <br>
 <br>
