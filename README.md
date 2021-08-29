@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Bryan and i am from Berlin and 24 years old. I am trying to become a self taught developer.
+- 👋 Hi, my name is Bryan i'm from Berlin and 24 years old. I am trying to become a self taught developer.
 
 - 👀 I’m interested in web development, computer hardware architecture and cybersecurity.
 
