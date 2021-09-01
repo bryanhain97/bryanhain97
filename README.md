@@ -21,6 +21,9 @@ You can click the Preview link to take a look at your changes.
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/14692443/bryan-hain)
 <br>
 <br>
+[<img align="left" alt="medium" src="https://www.iconninja.com/files/54/222/350/codepen-icon.png" />](https://codepen.io/bryan_hain97)
+<br>
+<br>
 [<img align="left" alt="code-wars" src="https://resourcecat.com/wp-content/uploads/2020/11/Codewars.png" />](https://www.codewars.com/users/bryanhain97)
 <br>
 <br>
