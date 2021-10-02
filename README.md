@@ -2,8 +2,8 @@
 
 - 👀 I’m interested in web development, computer hardware architecture and cybersecurity.
 
-- 🌱 I’m currently learning programming. I started learning how to code in september of 2020 and im currently working my way through 
-     challenges on https://www.frontendmentor.io and https://codewars.com. For the last 4 months i've been focusing on frontend-development (Sep.2021).
+- 🌱 I’m currently learning programming. I started learning how to code in september of 2020 and i'm currently working my way through 
+     challenges on https://www.frontendmentor.io and https://codewars.com. For the last 4 months i've been focusing on web-development (Oct.2021).
      
 - 💞️ I’m looking to collaborate on everything that helps me build my knowledge. I'm currently learning HTML, CSS, JavaScript and React. I want to learn more about server-side programming in Node.js after that.
 
