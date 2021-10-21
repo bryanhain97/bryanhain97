@@ -1,10 +1,10 @@
-- 👋 Hi, my name is Bryan I'm from Berlin and 24 years old. I am trying to become a self taught developer. 
+- 👋 Hi, my name is Bryan I'm from Berlin and 24 years old. I'm trying to become a self taught developer. 
 
 - 👀 I’m interested in web development, computer hardware architecture and cybersecurity.
 
-- 🌱 I’m currently learning programming. I started learning how to code in september of 2020 and i'm currently working my way through the process of connecting the front-end part of web-development with the back-end. I want to launch a project-website when i got a good understanding of the core concepts of frontend- and backend-development (Oct.2021).
+- 🌱 I’m currently focusing on web-development. I started learning how to code in september of 2020 and i'm currently working my way through the process of connecting the front-end part of web-development with the back-end. I want to launch a project-website when I got a good understanding of the core concepts of frontend- and backend-development (Oct.2021).
      
-- 💞️ I’m looking to collaborate on everything that helps me build my knowledge. I'm currently learning TypeScript, MongoDB and React. I want to learn more about Node.js after that.
+- 💞️ I’m looking to collaborate on everything that helps me build my knowledge. I'm currently learning MongoDB with Mongoose, ExpressJS and a little bit of NodeJS.
 
      
 <!---
