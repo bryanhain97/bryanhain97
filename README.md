@@ -2,7 +2,7 @@
 
 - 👀  I’m interested in programming and computer hardware architecture.
 
-- 🌱  I’m currently focusing on web-development. I started learning how to code in September of 2020 and at the moment i'm working my way through the process of connecting the frontend with the backend. I want to launch a project-website when I got a good understanding of the core concepts of frontend- and backend development (Jan.2022).
+- 🌱  I’m currently focusing on web-development and building my personal portfolio page. (Feb.2022).
      
 - 💞️  I’m looking to collaborate on anything that helps me build my knowledge around web-development and would love to connect to people of this industry!
 
