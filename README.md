@@ -3,6 +3,8 @@
 - 👀  I’m interested in programming and computer hardware architecture.
 
 - 🌱  I’m currently focusing on web-development and building my personal portfolio page. (Feb.2022).
+
+- 😀  Check out my personal portfolio website! https://www.thatguybryan.com ...I will continously update it!
      
 - 💞️  I’m looking to collaborate on anything that helps me build my knowledge around web-development and would love to connect to people of this industry!
 
