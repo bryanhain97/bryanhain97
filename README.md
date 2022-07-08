@@ -1,8 +1,8 @@
-- 👋  Hi, my name is Bryan I'm from Berlin and 24 years old. I'm a self taught developer working as a Junior Dev for Micromerce.
+- 👋  Hi, my name is Bryan I'm from Berlin and 25 years old. I'm a self taught and aspiring to become a creative developer.
 
-- 👀  I’m interested in programming and computer hardware architecture.
+- 👀  I’m interested in programming and 3D modeling.
 
-- 🌱  I’m currently learning Three.js. (May.2022).
+- 🌱  I’m currently learning Three.js and Blender.
 
 - 😀  Check out my personal portfolio website! https://www.thatguybryan.com ...I will continously update it!
      
