@@ -22,10 +22,8 @@ You can click the Preview link to take a look at your changes.
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/14692443/bryan-hain)
 <br>
 <br>
-[<img align="left" alt="medium" src="https://www.iconninja.com/files/54/222/350/codepen-icon.png" />](https://codepen.io/bryan_hain97)
+[<img align="left" alt="leetcode" src="https://external-preview.redd.it/tGVBnJXuSYF2ATLx6yciGgwOxDbPPi0vvHYS0xN4Qgw.jpg?auto=webp&s=6809de0a12a4d5ba00f0782d2d6dfd973c07278d" />](https://leetcode.com/bry4n_h/)
 <br>
 <br>
 [<img align="left" alt="code-wars" src="https://resourcecat.com/wp-content/uploads/2020/11/Codewars.png" />](https://www.codewars.com/users/bryanhain97)
-<br>
-<br>
-[<img align="left" alt="leetcode" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/1024px-LeetCode_Logo_black_with_text.svg.png" />](https://leetcode.com/bry4n_h/)
+
