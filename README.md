@@ -28,3 +28,4 @@ You can click the Preview link to take a look at your changes.
 [<img align="left" alt="code-wars" src="https://resourcecat.com/wp-content/uploads/2020/11/Codewars.png" />](https://www.codewars.com/users/bryanhain97)
 <br>
 <br>
+[<img align="left" alt="leetcode" src="http://terrylu.tech/2021/05/22/leetcode/cover.png" />](https://leetcode.com/bry4n_h/)
