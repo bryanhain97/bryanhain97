@@ -1,4 +1,4 @@
-- 👋  Hi, my name is Bryan I'm from Berlin and 25 years old. I'm a self taught and aspiring to become a creative developer. (Dec, 2022)
+- 👋  Hi, my name is Bryan I'm from Berlin and 25 years old. I'm fully self taught and aspire to become a creative developer. (Dec, 2022)
 
 - 👀  I’m interested in programming and 3D modeling.
 
